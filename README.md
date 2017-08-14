@@ -8,6 +8,6 @@ For extra security it includes basic auth, however it is advised to remove scrip
 Step 1 - backup your database! (IMPORTANT)  
 Step 2 - enter user/pass in .htpasswd  
 Step 3 - amend path in .htaccess to match location on your server  
-Step 4 - upload simple-wp-domain-change folder to server where WP installation exists  
+Step 4 - upload simple-wp-url-change folder to server where WP installation exists  
 Step 5 - run script in browser and follow on screen instructions  
 Step 6 - REMOVE SCRIPT FROM SERVER (ALSO IMPORTANT)
