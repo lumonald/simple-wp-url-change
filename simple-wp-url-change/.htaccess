@@ -1,0 +1,4 @@
+Authtype Basic
+AuthName "Username and Password required."
+AuthUserFile /path/to/your/file/simple-wp-url-change/.htpasswd
+Require valid-user
